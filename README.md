@@ -1,3 +1,4 @@
-## Bible_Pages.github.io
-This repo uses Github Pages to display a Bible verse or chapter (from Psalms) every single day! This repo will be constantly updated and improved.
-These bible verses/chapters will mostly focus on scripture from Psalms. Other books will eventually be included.
+## VerseDate
+Welcome to VerseDate! This mini [**Github Pages**](https://docs.github.com/en/pages) site is updated manually every day for a new and exciting Bible verse. 
+
+## Bible verse of the Day: 
