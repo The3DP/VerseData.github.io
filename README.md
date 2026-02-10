@@ -18,7 +18,7 @@ We will also display previous verses (featured up to 7 days).
 Any hanging questions?
 We've got answers.
 Suggestions?
-Perfect!
+Good to hear!
 Just contact **d73928430@gmail.com**
 
 ##### Made by [*The3DP*](https://github.com/The3DP)
