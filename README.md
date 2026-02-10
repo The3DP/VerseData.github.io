@@ -4,7 +4,7 @@ We will also display previous verses (featured up to 7 days).
 
 ###### NOTE: This repo was on hold because of a problem occuring with Github pages.
 ###### As of 2026, a new GitHub Pages site has been deployed. 
-###### Also, an pagese 232 error was fixed by extending the quotation limit.
+###### Also, a GitHub pages 232 error was fixed by extending the quotation limit.
 
 ## Bible verse for Februrary 10th, 2026 (Ecclesiastes 9 verse 4): 
 > ✞ **“Wisdom is better than strength. Nevertheless the poor man's wisdom is despised,
