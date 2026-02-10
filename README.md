@@ -2,8 +2,8 @@
 Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pages) site is updated manually every day for a new and exciting Bible verse. 
 We will also display previous verses (featured up to 7 days).
 
-###### NOTE: This repo was on hold because of a problem occuring with Github pages.
-###### As of 2026, a new GitHub Pages site has been deployed. 
+###### BUG NOTES: This repo was on hold because of a problem occuring with Github pages.
+###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
 
