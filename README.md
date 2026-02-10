@@ -11,7 +11,7 @@ We will also display previous verses (featured up to 7 days).
 > And his words are not heard. Words of the wise, spoken quietly, should be heard
 > Rather than the shout of a ruler of fools. Wisdom is better than weapons of war;
 > But one sinner destroys much good." 
- — "*Ecclesiastes 9:4*"
+ — "*Ecclesiastes chapter 9 verse 4*"
 
 ### Questions?
 Any hanging questions?
