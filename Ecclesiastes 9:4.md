@@ -1,4 +1,4 @@
-###### Bible verse featured for Februrary 10th, 2026:
+##### Bible verse featured for Februrary 10th, 2026:
  
  “Wisdom is better than strength. 
  Nevertheless the poor man's wisdom is despised, And his words are not heard.
