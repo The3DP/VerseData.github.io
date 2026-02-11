@@ -7,11 +7,18 @@ We will also display previous verses (featured up to 7 days).
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
 
+## Bible verse for February 11th, 2026 (*Proverbs 23:24-25*): 
+> ✞ **“The father of the righteous will greatly rejoice,
+> And he who begets a wise child will delight in him.
+> Let your father and your mother be glad,
+> And let her who bore you rejoice."**
+
+
 ## Bible verse for February 10th, 2026 (*Ecclesiastes 9:4*): 
 > ✞ **“Wisdom is better than strength. Nevertheless the poor man's wisdom is despised,
 > And his words are not heard. Words of the wise, spoken quietly, should be heard
 > Rather than the shout of a ruler of fools. Wisdom is better than weapons of war;
-> But one sinner destroys much good." 
+> But one sinner destroys much good."**
 
 
 ### Questions?
