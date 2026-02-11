@@ -24,8 +24,14 @@ We will also display previous verses (featured up to 7 days).
 ### Questions?
 Any hanging questions?
 We've got answers.
-Suggestions?
+Comments?
 Good to hear!
 Just contact **d73928430@gmail.com**
+
+### Verse Requests 
+If you'd like to request a bible verse 
+to be featured on this site, then please contact
+**d73928430@gmail.com** with "Verse Request" as the email subject!
+Verse requests are always appreciated! :)
 
 ##### Made by [*The3DP*](https://github.com/The3DP)
