@@ -10,6 +10,9 @@ We will also display previous verses (featured up to 7 days).
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
+## Bible verse for February 13th, 2026 (*Luke 19:26, KJV*): 
+> ✞ **“For I say unto you, That unto every one which hath shall be given; 
+> and from him that hath not, even that he hath shall be taken away from him."**
 
 ## Bible verse for February 11th, 2026 (*Proverbs 23:24-25*): 
 > ✞ **“The father of the righteous will greatly rejoice,
