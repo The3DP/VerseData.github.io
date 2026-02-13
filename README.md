@@ -2,9 +2,9 @@
 Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pages) site is updated manually every day for a new and exciting Bible verse. 
 We will also display previous verses (featured up to 7 days).
 
-###### UPDATING NOTE: Bible verse for February 12, 2026 was 
-###### acidentaly skipped. We'll be sure that this mistake
-###### never occurs again.
+###### UPDATING NOTE: The Bible verse update that was set for February 12, 2026 was 
+###### acidentaly forgotten. We are sorry for this mistake and are sure
+###### that nothing relative to this will ever occur again.
 
 ###### BUG NOTES: This repo was on hold because of a problem occuring with Github pages.
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
