@@ -6,7 +6,7 @@ We will also display previous verses (featured up to 7 days).
 ###### acidentaly forgotten. We are sorry for this mistake and are sure
 ###### that nothing relative to this will ever occur again.
 
-###### BUG NOTES: This repo was on hold because of a problem occuring with Github pages.
+###### BUG NOTES: This repo was on hold because of a problem occuring with Github Pages.
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
