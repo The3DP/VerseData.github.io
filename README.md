@@ -10,6 +10,15 @@ We will also display previous verses (featured up to 7 days).
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
+
+## Bible verse for February 14th, 2026 (*Matthew 6:24, NKJV*): 
+> ✞ **“No one can serve two masters;
+> for either he will hate the one and love the other,
+> or else he will be loyal to the one
+> and despise the other. You cannot
+> serve God and mammon."** 
+
+
 ## Bible verse for February 13th, 2026 (*Luke 19:26, KJV*): 
 > ✞ **“For I say unto you, That unto every one which hath shall be given; 
 > and from him that hath not, even that he hath shall be taken away from him."**
