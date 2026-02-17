@@ -2,13 +2,31 @@
 Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pages) site is updated manually every day for a new and exciting Bible verse. 
 We will also display previous verses (featured up to 7 days).
 
-###### UPDATING NOTE: The Bible verse update that was set for February 12, 2026 was 
-###### acidentaly forgotten. We are sorry for this mistake and are sure
+###### UPDATING NOTE: The Bible verse updates that were set for February 12th, February 14th
+###### and February 15th were acidentaly forgotten. We are sorry for this mistake and are sure
 ###### that nothing relative to this will ever occur again.
 
 ###### BUG NOTES: This repo was on hold because of a problem occuring with Github Pages.
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
+
+
+## Bible verse for February 17th, 2026 (*Proverbs 27:18, NKJV*): 
+> ✞ **“Whoever keeps the fig tree
+> will eat its fruit;
+> So he who waits on his
+> master will be honored"**
+
+
+## Bible verse for February 16th, 2026 (*Psalm 42:11, NKJV*): 
+> ✞ **“Why are you cast down,
+> O my soul?
+> And why are you disquieted
+> within me?
+> Hope in God;
+> For I shall yet praise Him,
+> The help of my countenance
+> and my God."**
 
 
 ## Bible verse for February 14th, 2026 (*Matthew 6:24, NKJV*): 
@@ -22,6 +40,7 @@ We will also display previous verses (featured up to 7 days).
 ## Bible verse for February 13th, 2026 (*Luke 19:26, KJV*): 
 > ✞ **“For I say unto you, That unto every one which hath shall be given; 
 > and from him that hath not, even that he hath shall be taken away from him."**
+
 
 ## Bible verse for February 11th, 2026 (*Proverbs 23:24-25*): 
 > ✞ **“The father of the righteous will greatly rejoice,
