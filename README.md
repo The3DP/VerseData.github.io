@@ -37,7 +37,7 @@ We will also display previous verses (featured up to 7 days).
 > A time to love,
 > And a time to hate;
 > A time of war,
-> And a time of peace.
+> And a time of peace."**
 
 
 ## Bible verse for February 17th, 2026 (*Proverbs 27:18, NKJV*): 
