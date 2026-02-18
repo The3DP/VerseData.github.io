@@ -11,6 +11,35 @@ We will also display previous verses (featured up to 7 days).
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
 
+## Bible verse for February 18th, 2026 (*Ecclesiastes 3:1-8, NKJV*): 
+> ✞ **“To everything there is a season, a time for every purpose under heaven:
+> A time to be born, And a time to die; A time to plant,
+> And a time to pluck what is planted; A time to kill,
+> And a time to heal;
+> A time to break down,
+> And a time to build up;
+> A time to weep,
+> And a time to laugh;
+> A time to mourn,
+> And a time to dance;
+> A time to cast away stones,
+> And a time to gather stones;
+> A time to embrace,
+> And a time to refrain from embracing;
+> A time to gain,
+> And a time to lose;
+> A time to keep,
+> And a time to throw away;
+> A time to tear,
+> And a time to sew;
+> A time to keep silence,
+> And a time to speak;
+> A time to love,
+> And a time to hate;
+> A time of war,
+> And a time of peace.
+
+
 ## Bible verse for February 17th, 2026 (*Proverbs 27:18, NKJV*): 
 > ✞ **“Whoever keeps the fig tree
 > will eat its fruit;
