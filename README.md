@@ -11,6 +11,22 @@ We will also display previous verses (featured up to 7 days).
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 
 
+## Bible verse for February 19th, 2026 (*Psalm 47:5-9, NKJV*): 
+> ✞ **“God has gone up with a shout,
+> The Lord with the sound of a trumpet.
+> Sing praises to God, sing praises!
+> Sing praises to our King, sing praises!
+> For God is the King of all the earth;
+> Sing praises with understanding.
+> God reigns over the nations;
+> God sits on His holy throne.
+> The princes of the people
+> have gathered together,
+> The people of the God of Abraham.
+> For the sheilds of the earth belong to God;
+> He is greatly exalted."**
+
+
 ## Bible verse for February 18th, 2026 (*Ecclesiastes 3:1-8, NKJV*): 
 > ✞ **“To everything there is a season, a time for every purpose under heaven:
 > A time to be born, And a time to die; A time to plant,
