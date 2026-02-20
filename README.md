@@ -9,6 +9,12 @@ We will also display previous verses (featured up to 7 days).
 ###### BUG NOTES: This repo was on hold because of a problem occuring with Github Pages.
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
+---
+
+## Bible verse for February 20th, 2026 (*Joshua 1:9, NKJV*): 
+> ✞ **“Have I not commanded you? Be strong and of good courage;
+>  do not be afraid, nor be dismayed,for the LORD your God
+>  is with you wherever you go."**
 
 
 ## Bible verse for February 19th, 2026 (*Psalm 47:5-9, NKJV*): 
