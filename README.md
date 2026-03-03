@@ -6,10 +6,22 @@ We will also display previous verses (featured up to 7 days).
 ###### and February 15th were acidentaly forgotten. We are sorry for this mistake and are sure
 ###### that nothing relative to this will ever occur again.
 
-###### BUG NOTES: This repo was on hold because of a problem occuring with Github Pages.
+###### BUG NOTES: This repo was on hold two times because of a problem occuring with Github Pages.
+###### We apologize for these delays.
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
+
+## Bible verse for March 3rd, 2026 (*Psalms 43:5, NKJV*):
+> ✞ **“Why are you cast down,
+> O my soul?
+> And why are you disquieted
+> within me?
+> Hope in God;
+> For I shall yet praise Him,
+> The help of my countenance
+> and my God."**
+
 
 ## Bible verse for February 20th, 2026 (*Joshua 1:9, NKJV*): 
 > ✞ **“Have I not commanded you? Be strong and of good courage;
