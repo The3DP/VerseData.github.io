@@ -13,6 +13,14 @@ We will also display previous verses (featured up to 7 days).
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for March 19th, 2026 (*Revelation 11:19, NKJV*):
+> ✞ **“Then the temple of God was opened
+> in heaven, and the ark of His covenant
+> was seen in His temple. And there were
+> lightnings, noises, thunderings, an
+> earthquake, and great hail."**
+
+
 ## Bible verse for March 3rd, 2026 (*Psalms 43:5, NKJV*):
 > ✞ **“Why are you cast down,
 > O my soul?
