@@ -3,8 +3,9 @@ Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pa
 We will also display previous verses (featured up to 7 days).
 
 ###### UPDATING NOTE: The Bible verse updates that were set for February 12th, February 14th
-###### and February 15th were acidentaly forgotten. We are sorry for this mistake and are sure
-###### that nothing relative to this will ever occur again.
+###### and February 15th (along with a few others) were acidentaly forgotten. 
+###### We are sorry for this mistake and are sure that 
+###### nothing relative to this will ever occur again.
 
 ###### BUG NOTES: This repo was on hold two times because of a problem occuring with Github Pages.
 ###### We apologize for these delays.
