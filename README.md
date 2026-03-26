@@ -13,6 +13,13 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for March 26th, 2026 (*Hosea 7:7, NKJV*):
+> ✞ **“They are all hot, like an oven,
+> And have devoured their judges;
+> All their kings have fallen.
+> None among them calls upon Me."**
+
+
 ## Bible verse for March 19th, 2026 (*Revelation 11:19, NKJV*):
 > ✞ **“Then the temple of God was opened
 > in heaven, and the ark of His covenant
