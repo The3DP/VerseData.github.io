@@ -13,6 +13,13 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for March 27th, 2026 (*Ecclesiastes 3:17, NKJV*):
+> ✞ **I said in my heart,
+> "God shall judge the righteous
+> and the wicked. For there is a
+> time there for every purpose and
+> for every good work."**
+
 ## Bible verse for March 26th, 2026 (*Hosea 7:7, NKJV*):
 > ✞ **“They are all hot, like an oven,
 > And have devoured their judges;
