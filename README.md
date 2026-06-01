@@ -14,7 +14,9 @@ We will also display previous Bible verses as well.
 ---
 
 ## Bible verse for June 1st, 2026 (*Matthew 13:35, NKJV*):
-> ✞ **"... I will open My mouth in parables;
+> ✞ **That it might be fulfilled which was spoken
+> by the propthet, saying:
+> "I will open My mouth in parables;
 > I will utter things kept secret from the
 > foundation of the world."**
 
