@@ -14,8 +14,9 @@ We will also display previous Bible verses as well.
 ---
 
 ## Bible verse for June 1st, 2026 (*Matthew 13:35, NKJV*):
-> ✞ **
-
+> ✞ **"... I will open My mouth in parables;
+> I will utter things kept secret from the
+> foundation of the world."**
 
 ## Bible verse for March 27th, 2026 (*Ecclesiastes 3:17, NKJV*):
 > ✞ **"I said in my heart,
