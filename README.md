@@ -13,8 +13,12 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 1st, 2026 (*Matthew 13:35, NKJV*):
+> ✞ **
+
+
 ## Bible verse for March 27th, 2026 (*Ecclesiastes 3:17, NKJV*):
-> ✞ **I said in my heart,
+> ✞ **"I said in my heart,
 > "God shall judge the righteous
 > and the wicked. For there is a
 > time there for every purpose and
