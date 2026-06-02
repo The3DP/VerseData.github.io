@@ -13,6 +13,10 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 2nd, 2026 (*John 15:18, NKJV*):
+> ✞ **"If the world hates you, you know
+> that it hated Me before it hated you."**
+
 ## Bible verse for June 1st, 2026 (*Matthew 13:35, NKJV*):
 > ✞ **That it might be fulfilled which was spoken
 > by the propthet, saying:
