@@ -13,6 +13,13 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 3rd, 2026 (*Romans 12:20-21, NKJV*):
+> ✞ **"Therefore, if your enemy is hungry, feed him;
+> If he is thirsty, give him a drink;
+> For in doing so you will heap coals of fire on his head.
+> Do not overcome by evil, but overcome evil with good."**
+
+
 ## Bible verse for June 2nd, 2026 (*John 15:18, NKJV*):
 > ✞ **"If the world hates you, you know
 > that it hated Me before it hated you."**
