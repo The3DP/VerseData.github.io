@@ -13,6 +13,11 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 6th, 2026 (*Matthew 11:29-30, NKJV*):
+> ✞ **"Take My yoke upon you and learn from Me, for I
+> am gentle and lowly in heart, and you will find rest for your souls.
+> For My yoke is easy and My burden is light."**
+
 ## Bible verse for June 5th, 2026 (*Revelation 21:7, NKJV*):
 > ✞ **"He who overcomes shall inherit all things,
 > and I will be his God, and he shall be My son."**
@@ -47,14 +52,12 @@ We will also display previous Bible verses as well.
 > All their kings have fallen.
 > None among them calls upon Me."**
 
-
 ## Bible verse for March 19th, 2026 (*Revelation 11:19, NKJV*):
 > ✞ **“Then the temple of God was opened
 > in heaven, and the ark of His covenant
 > was seen in His temple. And there were
 > lightnings, noises, thunderings, an
 > earthquake, and great hail."**
-
 
 ## Bible verse for March 3rd, 2026 (*Psalms 43:5, NKJV*):
 > ✞ **“Why are you cast down,
@@ -66,12 +69,10 @@ We will also display previous Bible verses as well.
 > The help of my countenance
 > and my God."**
 
-
 ## Bible verse for February 20th, 2026 (*Joshua 1:9, NKJV*): 
 > ✞ **“Have I not commanded you? Be strong and of good courage;
 >  do not be afraid, nor be dismayed,for the LORD your God
 >  is with you wherever you go."**
-
 
 ## Bible verse for February 19th, 2026 (*Psalm 47:5-9, NKJV*): 
 > ✞ **“God has gone up with a shout,
@@ -87,7 +88,6 @@ We will also display previous Bible verses as well.
 > The people of the God of Abraham.
 > For the sheilds of the earth belong to God;
 > He is greatly exalted."**
-
 
 ## Bible verse for February 18th, 2026 (*Ecclesiastes 3:1-8, NKJV*): 
 > ✞ **“To everything there is a season, a time for every purpose under heaven:
@@ -117,13 +117,11 @@ We will also display previous Bible verses as well.
 > A time of war,
 > And a time of peace."**
 
-
 ## Bible verse for February 17th, 2026 (*Proverbs 27:18, NKJV*): 
 > ✞ **“Whoever keeps the fig tree
 > will eat its fruit;
 > So he who waits on his
 > master will be honored"**
-
 
 ## Bible verse for February 16th, 2026 (*Psalm 42:11, NKJV*): 
 > ✞ **“Why are you cast down,
