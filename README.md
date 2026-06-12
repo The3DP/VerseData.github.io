@@ -13,6 +13,10 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 11th, 2026 (*Psalm 76:10, NKJV*):
+> ✞ **"Surely the wrath of man shall praise you;
+> With the remainder of wrath You shall gird yourself."**
+
 ## Bible verse for June 6th, 2026 (*Matthew 11:29-30, NKJV*):
 > ✞ **"Take My yoke upon you and learn from Me, for I
 > am gentle and lowly in heart, and you will find rest for your souls.
