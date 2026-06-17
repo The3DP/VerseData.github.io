@@ -13,7 +13,7 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
-## Bible verse for June 17th, 2026 (*Romans 14:11*, NKJV*):
+## Bible verse for June 17th, 2026 (*Romans 14:11, NKJV*):
 > ✞ **For it is written:
 > "As I live, says the Lord,
 > Every knee shall bow to Me,
