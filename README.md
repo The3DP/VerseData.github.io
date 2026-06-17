@@ -3,7 +3,7 @@ Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pa
 We will also display previous Bible verses as well.
 
 ###### UPDATING NOTE: The Bible verse updates that were set for February 12th, February 14th
-###### and February 15th (along with a few others) were acidentaly forgotten. 
+###### and February 15th (along with some others) were acidentaly forgotten. 
 ###### We are sorry for this mistake and are sure that 
 ###### nothing relative to this will ever occur again.
 
@@ -12,6 +12,12 @@ We will also display previous Bible verses as well.
 ###### As of 2026, a new GitHub Pages site has now been deployed. 
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
+
+## Bible verse for June 17th, 2026 (*Romans 14:11*, NKJV*):
+> ✞ **For it is written:
+> "As I live, says the Lord,
+> Every knee shall bow to Me,
+> And every tongue shall confess to God"**
 
 ## Bible verse for June 11th, 2026 (*Psalm 76:10, NKJV*):
 > ✞ **"Surely the wrath of man shall praise you;
