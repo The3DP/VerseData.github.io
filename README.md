@@ -2,8 +2,8 @@
 Welcome to VerseData! This mini [**Github Pages**](https://docs.github.com/en/pages) site is updated manually every day for a new and exciting Bible verse. 
 We will also display previous Bible verses as well.
 
-###### UPDATING NOTE: The Bible verse updates that were set for February 12th, February 14th
-###### and February 15th (along with some others) were acidentaly forgotten. 
+###### UPDATING NOTE: The Bible verse updates that were set for February 12th, February 14th,
+###### and February 15th, along with a few others, were acidentaly forgotten. 
 ###### We are sorry for this mistake and are sure that 
 ###### nothing relative to this will ever occur again.
 
