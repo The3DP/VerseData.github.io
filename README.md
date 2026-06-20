@@ -13,6 +13,12 @@ We will also display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 20th, 2026 (*Matthew 13:45-46, NKJV*):
+> ✞ **"Again, the kingdom of heaven is like a merchant seeking beautiful
+> pearls,
+> "who, when he had found one pearl of great price, went and sold
+> all that he had and bought it."**
+
 ## Bible verse for June 17th, 2026 (*Romans 14:11, NKJV*):
 > ✞ **For it is written:
 > "As I live, says the Lord,
