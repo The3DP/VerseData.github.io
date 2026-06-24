@@ -13,6 +13,11 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 24th, 2026 (*Matthew 13:33, NKJV*):
+> ✞ **Another parable He spoke to them: "The kingdom of
+> heaven is like leaven, which a woman took and hid in three
+> measures of meal till it was all leavened."**
+
 ## Bible verse for June 20th, 2026 (*Matthew 13:45-46, NKJV*):
 > ✞ **"Again, the kingdom of heaven is like a merchant seeking beautiful
 > pearls,
