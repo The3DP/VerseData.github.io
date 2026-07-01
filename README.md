@@ -13,6 +13,13 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for June 30th, 2026 (*Matthew 11:25, NKJV*):
+> ✞ **At that time Jesus answered and said, "I thank You,
+> Father, Lord of heaven and earth, that You have hidden
+> these things from the wise and prudent and have revealed
+> them to babes. Even so Father, for it seemed good in Your
+> sight."**
+
 ## Bible verse for June 24th, 2026 (*Matthew 13:33, NKJV*):
 > ✞ **Another parable He spoke to them: "The kingdom of
 > heaven is like leaven, which a woman took and hid in three
