@@ -13,6 +13,13 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 1st, 2026 (*Lamentations 2:16, NKJV*):
+> ✞ **All your enemies have opened their mouth against you;
+> They hiss and gnash their teeth.
+> They say, "We have swallowed her up!
+> Surely this is the day we have waited for;
+> We have found it, we have seen it!"**
+ 
 ## Bible verse for June 30th, 2026 (*Matthew 11:25, NKJV*):
 > ✞ **At that time Jesus answered and said, "I thank You,
 > Father, Lord of heaven and earth, that You have hidden
