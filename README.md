@@ -13,6 +13,13 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 2nd, 2026 (*Romans 13:10*):
+> ✞ **"Render therefore to all their due:
+> taxes to whom taxes are due,
+> customs to whom customs,
+> fear to whom fear,
+> honor to whom honor."**
+
 ## Bible verse for July 1st, 2026 (*Lamentations 2:16, NKJV*):
 > ✞ **All your enemies have opened their mouth against you;
 > They hiss and gnash their teeth.
