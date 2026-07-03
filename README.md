@@ -13,6 +13,11 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 3rd, 2026 (*Psalms 10:2, NKJV*):
+> ✞ **"The wicked in his pride persecutes the poor;
+> Let them be caught in the plots
+> which they have devised."**
+
 ## Bible verse for July 2nd, 2026 (*Romans 13:10*):
 > ✞ **"Render therefore to all their due:
 > taxes to whom taxes are due,
