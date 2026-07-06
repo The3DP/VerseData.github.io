@@ -13,6 +13,13 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July  6th, 2026 (*Revelation 6:12, NKJV*):
+> ✞ **"Amen! Blessing and glory and wisdom,
+> Thanksgiving and honor and power and might,
+> Be to our God forever and ever!
+> Amen."**
+
+
 ## Bible verse for July 3rd, 2026 (*Psalms 10:2, NKJV*):
 > ✞ **"The wicked in his pride persecutes the poor;
 > Let them be caught in the plots
