@@ -13,6 +13,12 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 8th, 2026 (*Acts 2:25-26, NKJV*):
+> ✞ **For David says concerning Him:
+> 'I foresaw the Lord always before my face,
+> For He is at my right hand, that I may not be shaken.
+> Therefore my heart rejoiced, and my toungue was glad.'**
+
 ## Bible verse for July 7th, 2026 (*Psalm 74:22, NKJV*):
 > ✞ **"Arise, O God, plead your own cause;
 > Remember how the foolish man reproaches
