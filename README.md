@@ -13,6 +13,10 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 11th, 2026 (*Psalm 14:6, NKJV*):
+> ✞ **"You shame the counsel of the poor,
+> But the Lord is his refuge."**
+
 ## Bible verse for July 9th, 2026 (*Matthew 16:26, NKJV*):
 > ✞ **"For what profit is it to a man if he
 > gains the whole world, and loses his own soul?
