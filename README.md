@@ -13,6 +13,10 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 13th, 2026 (*1st Corinthians 14:4, NKJV*):
+> ✞ **"He who speaks in a tongue edifies himself,
+> but he who prophesies edifies the church."**
+
 ## Bible verse for July 11th, 2026 (*Psalm 14:6, NKJV*):
 > ✞ **"You shame the counsel of the poor,
 > But the Lord is his refuge."**
