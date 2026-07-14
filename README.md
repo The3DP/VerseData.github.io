@@ -13,6 +13,13 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 14th, 2026 (*Psalm 23:4, NKJV*):
+> ✞ **"Yea, though I walk through the valley
+> of the shadow of death,
+> I will fear no evil;
+> For You are with me;
+> Your rod and Your staff, they comfort me."**
+
 ## Bible verse for July 13th, 2026 (*1st Corinthians 14:4, NKJV*):
 > ✞ **"He who speaks in a tongue edifies himself,
 > but he who prophesies edifies the church."**
@@ -33,7 +40,7 @@ We will display previous Bible verses as well.
 > For He is at my right hand, that I may not be shaken.
 > Therefore my heart rejoiced, and my toungue was glad.'**
 
-## Bible verse for July 7th, 2026 (*Psalm 74:22, NKJV*):
+## Bible verse for July 7th, 2026 (* 74:22, NKJV*):
 > ✞ **"Arise, O God, plead your own cause;
 > Remember how the foolish man reproaches
 > You daily."**
@@ -44,7 +51,7 @@ We will display previous Bible verses as well.
 > Be to our God forever and ever!
 > Amen."**
 
-## Bible verse for July 3rd, 2026 (*Psalms 10:2, NKJV*):
+## Bible verse for July 3rd, 2026 (*s 10:2, NKJV*):
 > ✞ **"The wicked in his pride persecutes the poor;
 > Let them be caught in the plots
 > which they have devised."**
@@ -87,7 +94,7 @@ We will display previous Bible verses as well.
 > Every knee shall bow to Me,
 > And every tongue shall confess to God"**
 
-## Bible verse for June 11th, 2026 (*Psalm 76:10, NKJV*):
+## Bible verse for June 11th, 2026 (* 76:10, NKJV*):
 > ✞ **"Surely the wrath of man shall praise you;
 > With the remainder of wrath You shall gird yourself."**
 
@@ -137,7 +144,7 @@ We will display previous Bible verses as well.
 > lightnings, noises, thunderings, an
 > earthquake, and great hail."**
 
-## Bible verse for March 3rd, 2026 (*Psalms 43:5, NKJV*):
+## Bible verse for March 3rd, 2026 (*Psalm 43:5, NKJV*):
 > ✞ **“Why are you cast down,
 > O my soul?
 > And why are you disquieted
