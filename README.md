@@ -13,6 +13,12 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 15th, 2026 (*1st Corinthians 2:7, NKJV*):
+> ✞ **"But we speak the wisdom of God
+> in a mystery, the hidden wisdom
+> which God ordained before the ages
+> for our glory."**
+
 ## Bible verse for July 14th, 2026 (*Psalm 23:4, NKJV*):
 > ✞ **"Yea, though I walk through the valley
 > of the shadow of death,
