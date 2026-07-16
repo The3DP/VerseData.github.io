@@ -13,6 +13,12 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 16th, 2026 (*1st Corinthians 2:8, NKJV*):
+> ✞ **"Which none of the rulers
+> of this age knew; for had they
+> known, they would not have crucified
+> the Lord of glory."**
+
 ## Bible verse for July 15th, 2026 (*1st Corinthians 2:7, NKJV*):
 > ✞ **"But we speak the wisdom of God
 > in a mystery, the hidden wisdom
