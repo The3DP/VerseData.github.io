@@ -17,7 +17,7 @@ We will display previous Bible verses as well.
 > ✞ **"For who has known the mind of the Lord?
 > Or who has become His counseler?
 > Or who has first given to Him
-> And it shall be repaid to Him?"**
+> and it shall be repaid to Him?"**
 
 ## Bible verse for July 16th, 2026 (*1st Corinthians 2:8, NKJV*):
 > ✞ **"Which none of the rulers
