@@ -13,6 +13,12 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
+## Bible verse for July 17th, 2026 (*Romans 12:44-35, NKJV*):
+> ✞ **"For who has known the mind of the Lord?
+> Or who has become His counseler?
+> Or who has first given to Him
+> And it shall be repaid to Him?"**
+
 ## Bible verse for July 16th, 2026 (*1st Corinthians 2:8, NKJV*):
 > ✞ **"Which none of the rulers
 > of this age knew; for had they
