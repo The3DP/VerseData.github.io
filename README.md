@@ -13,7 +13,7 @@ We will display previous Bible verses as well.
 ###### Also, a GitHub pages 232 error was fixed by removing a 'secondary' README.md
 ---
 
-## Bible verse for July 23th, 2026 (*Isaiah 44:9, NKJV*):
+## Bible verse for July 23rd, 2026 (*Isaiah 44:9, NKJV*):
 > ✞ **"Those who make an image, all of them are useless,
 > and their precious things shall not profit;
 > They are their own witnesses;
