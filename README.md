@@ -17,7 +17,7 @@ We will display previous Bible verses as well.
 > ✞ **"Those who make an image, all of them are useless,
 > and their precious things shall not profit;
 > They are their own witnesses;
-> They neither see nor know, that they may be ashamed."**
+> they neither see nor know, that they may be ashamed."**
 
 ## Bible verse for July 17th, 2026 (*Romans 12:44-35, NKJV*):
 > ✞ **"For who has known the mind of the Lord?
